@@ -5,3 +5,5 @@ function planeSeat(a){
     return `${number > 20 ? number > 40 ? 'Back-' : 'Middle-' : 'Front-'}${letter > 'C' ? letter > 'F' ? 'Right' : 'Middle' : 'Left'}`;
   }
 // tìm hiểu thêm
+a = "2B"
+console.log(planeSeat(a))

@@ -10,5 +10,5 @@ function sixToast(num) {
         return result
     }
 }
-num = 1
+num = 65
 console.log(sixToast(num))

@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")();
-
-const weight = parseFloat(prompt("Enter your weight (kg): "));
-const height = parseFloat(prompt("Enter your height (m): "));
+let khoi = 'lam anh khoi'
+for ( let i = 0; i<khoi.length; i++){
+    
+}
