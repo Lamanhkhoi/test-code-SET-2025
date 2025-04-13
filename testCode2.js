@@ -6,7 +6,8 @@ class A {
         this['kkk'] = 100
         this.sum = sum
     }
-    sum() {
-        
+    sum = function() {
+        x + y
     }
 }
+console.log(sum(1,2))
